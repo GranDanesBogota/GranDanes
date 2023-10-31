@@ -275,6 +275,10 @@
     .image-left {
         margin-left: 15px;
     }
+     .faq-content{
+        overflow: hidden;
+        width: 90%;
+    }
     .header-content {
         text-align: left;
     }
